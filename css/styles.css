@@ -1,0 +1,51 @@
+/*************Tag Selectors*************/
+
+body {
+    background-color: black;
+}
+
+/************Class Selectors************/
+
+.Banner img {
+    width: 100%;
+    height: auto; 
+}
+
+
+
+.Navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(80, 80, 80);
+}
+
+.Navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 20px;
+    text-decoration: none;
+    float: right;
+    /*background-color: #5a5a5a;*/
+}
+
+.Navigation img {
+    width: 10%;
+    height: auto;
+}
+
+.Navigation li a:hover:not(.active) {
+    background-color: gray;
+}
+
+.active {
+    background-color: lime;
+}
+
+/*************ID Selectors*************/
+
+#HomeButton {
+    float: left;
+}
