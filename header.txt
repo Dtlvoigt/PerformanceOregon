@@ -1,0 +1,1 @@
+document.write('<!--Banner at top of page--><div class="Banner"><a href="index.html"><img src="images/Performance Oregon.png" alt=""></a></div><!--Navigation buttons--><div class="Navigation"><ul><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li><li><a href="blog.html">Blog</a></li><li><a href="services.html">Services</a></li></ul></div>')

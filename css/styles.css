@@ -2,6 +2,7 @@
 
 body {
     background-color: black;
+    font-family: 'Arvo', serif;
 }
 
 /************Class Selectors************/
@@ -10,8 +11,6 @@ body {
     width: 100%;
     height: auto; 
 }
-
-
 
 .Navigation ul {
     list-style-type: none;
@@ -25,12 +24,13 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 12px 6px;
+    padding: 12px 8px;
     text-decoration: none;
     float: right;
     /*background-color: #5a5a5a;*/
 }
 
+/*nav bar*/
 .Navigation img {
     width: 10%;
     height: auto;
